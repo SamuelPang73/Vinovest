@@ -110,7 +110,7 @@
         "not IE 11"
     ],
     "devDependencies": {
-        "@babel/cli": "^7.14.8",
+        "@babel/cli": "^7.18.10",
         "@babel/core": "^7.14.3",
         "@babel/helper-create-regexp-features-plugin": "^7.12.17",
         "@babel/plugin-proposal-decorators": "^7.13.5",
